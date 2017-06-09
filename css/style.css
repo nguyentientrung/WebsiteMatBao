@@ -1,0 +1,165 @@
+/* CSS Document */
+.logo {
+	margin-bottom: 10px;
+}
+#menu span {
+	background-color: #fff
+}
+#menu {
+	background-color: #ff4343;
+	border: none;
+	border-radius: 0px;
+}
+#menu ul li a{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #fff;
+}
+#menu ul li a:hover{
+	color:#ff4343;
+}
+/*Slider*/
+/*.slider {
+	margin-bottom: 30px;
+}*/
+/*giới thiệu*/
+.gioithieu p {
+	font-size: 16px;
+	font-size: 14px;
+	line-height: 30px;
+}
+.gioithieu {
+	border-radius: 0px;
+	background-color: #eff4f5;
+	margin-top: 40px;
+	border-radius: 0px;
+	padding-top:32px;
+	padding-bottom:32px;
+}
+/*sản phẩm*/
+
+.thumbnail {
+	border: none;
+}
+.san_pham {
+	margin-top: 20px;
+}
+.san_pham p {
+	line-height: 27px;
+}
+.san_pham a:hover{ 
+	opacity:0.7;
+	background-color:#f90;
+}
+
+/*dịch vụ*/
+#dich_vu .rect_icon {
+	position: relative;
+	width: 70px;
+	height: 70px;
+	background-color: #f58025;
+	outline: 2px solid #fff;
+	outline-offset: -5px;
+	transform: rotate(45deg);
+	text-align:center;
+}
+#dich_vu .icon {
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%) rotate(-45deg);
+}
+#dich_vu p {
+	line-height: 35px;
+}
+#dich_vu .col-md-3{
+	margin-top: 20px;
+}
+#dich_vu a{
+	text-decoration:none;
+	color:#FE3130;
+}
+#dich_vu a:hover{
+	color:#f90;
+}
+
+#dich_vu .canh_le_icon {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
+/*liên hệ*/
+.col-md-6 img {
+	margin-top: 20px;
+}
+.jumbotron.lien_he {
+	background-color: #ff4343;
+	height: 455px;
+	border-radius: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+}
+.btn-block {
+	margin-top: 20px;
+	;
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 0px;
+	font-size: 27px;
+	background-color: #B2050B;
+	color: #fff;
+}
+.form-control.contact {
+	padding: 20px 20px;
+	border-radius: 0px;
+}
+.col-md-4 p, .col-md-4 h3 {
+	color: #fff;
+}
+
+/*Footer*/
+
+.footer p, .footer h3 {
+	color: #fff;
+}
+.footer p a{
+	color:#fff;
+}
+.col-md-3.footer_ads {
+	margin-top: 0px;
+}
+.col-md-3.footer_ads p {
+	line-height: 18px;
+}
+.container-fluid.footer {
+	background-color: #313131;
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+.fa.fa-phone-square {
+	font-size: 20px;
+}
+.fa.fa-envelope-o {
+	font-size: 20px;
+}
+.fa.fa-map-marker {
+	font-size: 23px;
+}
+.form-group input.form-control.email_footer {
+	border-right-width: 1px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: #313131;
+	border: 2px solid #fff;
+	border-radius: 0px;
+	color: #fff;
+}
